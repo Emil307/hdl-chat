@@ -2,21 +2,26 @@
 
 :root {
     /* fonts */
-    --font: 'Noto Sans', 'Arial', 'sans-serif';
+    --font: 'Manrope', 'Arial', 'sans-serif';
  
     /* colors */
-    --blue: #175EF1;
+    --blue-1: #5B96F7;
+    --blue-2: #709CE6;
+    --blue-3: #EAF2FE;
+    --blue-4: #F0F4FA;
+    --blue-5: #F8FAFF;
     --orange: #FF9900;
-    --red: #EC5333;
-    --green: #5BC259;
+    --red: #FF4842;
+    --green-light: #76D45E;
+    --green: #35C677;
     --orange_pale: #FCEFDC;
-    --grey_1: #5F6A77;
-    --grey_2: #7e8a98;
-    --grey_3: #A0AFC1;
-    --grey_4: #C5CCD5;
-    --grey_5: #D5DEE8;
-    --grey_6: #F9FAFE;
+    --grey_1: #515151;
+    --grey_2: #686768;
+    --grey_3: #696969;
+    --grey_4: #7C7C7D;
+    --grey_5: #888;
+    --grey_6: #B4B4B4;
     --white: #fff;
-    --black: #000;
+    --black: #030303;
     --bg: #F9FAFE;
 }
